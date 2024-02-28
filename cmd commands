@@ -4,3 +4,4 @@ dir- show diretory
 ls(linux)- create new file
 cd - change directory
 git add . -
+git pull- save fffile
