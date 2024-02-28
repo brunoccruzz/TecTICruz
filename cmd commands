@@ -3,5 +3,10 @@ cls- clear
 dir- show diretory
 ls(linux)- create new file
 cd - change directory
-git add . -
-git pull- save fffile
+git add . - change commition
+git pull- save file
+git status - understand whats happening
+git branch -M main - change main
+git innit- start
+git commit -m "readme"
+
