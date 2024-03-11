@@ -9,4 +9,5 @@ git status - understand whats happening
 git branch -M main - change main
 git innit- start
 git commit -m "readme"
-
+git branch- create, delete, rename branch(ramificacoes)
+git merge- integrate then into a single branch
